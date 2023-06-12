@@ -1,0 +1,17 @@
+h1,
+p {
+  text-align: center;
+  font-size: 40px;
+}
+
+.sizeImg {
+  width: 400px;
+}
+
+.sizeImg_2 {
+  width: 700px;
+}
+
+.sizeImg_3 {
+  width: 600px;
+}
