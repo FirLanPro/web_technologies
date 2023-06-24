@@ -1,0 +1,22 @@
+
+-- create
+CREATE TABLE EMPLOYEE (
+  id INTEGER PRIMARY KEY,
+  name TEXT NOT NULL,
+  age TEXT NOT NULL,
+  address TEXT NOT NULL
+);
+
+-- insert
+INSERT INTO EMPLOYEE VALUES (0001, 'Clark', '19', 'Ggggggg,h22,r5');
+INSERT INTO EMPLOYEE VALUES (0002, 'Dave', '18', 'Kkkkk,h33,r65');
+INSERT INTO EMPLOYEE VALUES (0003, 'Ava', '18', 'Jjjjjj,h4,r44');
+INSERT INTO EMPLOYEE VALUES (0004, 'Dicky', '19', 'Eeeeee,h48,r37');
+INSERT INTO EMPLOYEE VALUES (0005, 'Jack', '19', 'Wwwwwww,h34,r23');
+INSERT INTO EMPLOYEE VALUES (0006, 'Molly', '18', 'Vvvvvv,h74,r85');
+INSERT INTO EMPLOYEE VALUES (0007, 'Ginger', '17', 'Lllll,h64,r93');
+INSERT INTO EMPLOYEE VALUES (0008, 'Olivia', '18', 'Tttttt,h58,r48');
+
+
+-- fetch 
+SELECT * FROM EMPLOYEE WHERE;
