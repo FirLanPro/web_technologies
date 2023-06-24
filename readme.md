@@ -19,3 +19,8 @@
 
 
 [файл SQL](/homeWork/Php_MySQL/queries.sql) | таблица: информация об одногруппниках, 4 поля
+
+## xml&json:
+
+[xml](/homeWork/xml%20and%20json/data.xml)
+[json](/homeWork/xml%20and%20json/formatt.json)
