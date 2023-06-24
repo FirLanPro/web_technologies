@@ -11,4 +11,5 @@
 
 ## Php:
 
-[html файл](/homeWork/Php_MySQL/cv.html) / задание с php
+[html файл](/homeWork/Php_MySQL/cv.html) | задание с php
+[файл SQL](/homeWork/Php_MySQL/queries.sql) | таблица: информация об одногруппниках, 4 поля
