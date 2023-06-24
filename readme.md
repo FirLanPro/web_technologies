@@ -9,7 +9,7 @@
 
 [JS 2 файл](/homeWork/J_S/DZ_1/work1.js)
 
-## Php:
+## Php and MySQL:
 
 [html файл](/homeWork/Php_MySQL/cv.html) | задание с php
 
